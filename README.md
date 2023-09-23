@@ -32,4 +32,4 @@ Available flags:
 
 ## Benchmarks
 
-![benchmarks charts](https://github.com/AIn0n/FMHD/benchmarks.jpg)
+![benchmarks charts](https://github.com/AIn0n/FMHD/blob/master/benchmarks.jpg)
